@@ -2,7 +2,7 @@
 https://docs.docker.com/desktop/install/windows-install/
 
 # Run Kafka with Docker
-> :warning: Twitter API keys are needed in an .env file
+> :warning: Twitter API keys and MongoDB access URL are needed in an .env file
 
 https://www.conduktor.io/kafka/how-to-start-kafka-using-docker
 
